@@ -1,6 +1,6 @@
 ## Hi there 👋 My Name is Sam Westlake-Cann
 - 🧑🏻‍💻 I’m currently working on a Mindful Fitness App
-- 📚 I’m currently learning how to develop an app in app stores
+- 📚 I’m currently learning how to turn Python code in to an app
 - 🤔 I’m looking for help with turning Python Code into a fully fledged app
 - 💬 Ask me about ANYTHING
 - 📫 How to reach me: info@mindfulsportscoach.co.uk
